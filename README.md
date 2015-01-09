@@ -1,2 +1,0 @@
-# helpfulcontent
-SelfReferenceRepository
